@@ -2,4 +2,4 @@ This repo is to maintain django,android and QA automation scripts. Please mainta
 dev --> development django code (Only mahesh)
 qa --> qa automation scripts (Only shanker and Bharathi)
 master,prod --> strictly raghu datta
-android --> balaji,raghu
+android --> Balaji,Raghu
